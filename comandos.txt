@@ -1,0 +1,88 @@
+
+Arquimedes Mariano Pereira
+
+cd arquimedesmariano
+ls
+cd Curso-Git
+ls
+cd curso-git
+ls
+mkdir github
+ls
+cd github
+ls
+pwd
+ls
+cleaer
+clear
+ls -la
+cd ..
+ls
+cd ..
+cd Curso-Git
+ls
+cd curso-git
+ls
+cd Github
+ls
+git init
+ls
+git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead 
+ls
+cd cur
+cd curso-branchs-ifrn-ead
+ls
+head arquivo
+head arquivo1
+rm -rf arquivo1
+rm -rf arquivo2
+ls
+cd ..
+ls
+cd curso-branchs-ifrn-ead
+;s
+ls
+git status
+cd ..
+ls
+git status
+git add curso-branchs-ifrn-ead
+git commite -m "Clone da pasta"
+git status
+clear
+echo arquivo texto para Branch main no GitHUb > texto.txt
+ls
+git status
+git add texto.txt
+git commit -m "Esse commit é a linha 3 da Tarefa"
+clear
+git branch
+git branch feature-1
+git switch feature-1 
+ls
+git status
+clear
+git status 
+git add texto.txt
+git commit -m "Commit realizado em feature-1"
+git status
+git switch main
+git status
+git add texto.txt
+git commit -m "Esse do texto.txt no branc main"
+git status
+head texto.txt
+clear
+git merge feature-1 
+git status
+git add texto.txt
+git commit -m "Merge conflito resolvido"
+git status
+git branch add-comandos
+git branch
+git switch
+git switch add-comandos 
+git status
+history
+echo Arquimedes Mariano Pereira > comandos.txt
+ls
